@@ -5,7 +5,7 @@ WORKDIR /app
 USER root
 RUN dnf update -y && dnf upgrade -y
 RUN chown -R 1001 /app
-USER 1001
+#USER 1001
 
 COPY ./ ./
 
