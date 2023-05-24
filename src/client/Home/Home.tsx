@@ -10,7 +10,7 @@ const Home = () => {
         axios.get('/api/message')
         .then((response) => {
             setMsg(response.data);
-        });
+        });/*  */
     }
 
     return (
