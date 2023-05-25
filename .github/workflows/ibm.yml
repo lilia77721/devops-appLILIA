@@ -2,7 +2,7 @@
 #
 # To configure this workflow:
 #cambiar el puerto 8080:8080 en el deployment
-# 1. Ensure that your repository contains a Dockerfile
+# 1. Ensure that your repository contains a Dockerfile.
 # 2. Setup secrets in your repository by going to settings: Create ICR_NAMESPACE and IBM_CLOUD_API_KEY
 # verificar todo
 # 3. Change the values for the IBM_CLOUD_REGION, REGISTRY_HOSTNAME, IMAGE_NAME, IKS_CLUSTER, DEPLOYMENT_NAME, and PORT
