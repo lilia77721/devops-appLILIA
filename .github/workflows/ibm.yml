@@ -21,7 +21,7 @@ env:
   REGISTRY_HOSTNAME: us.icr.io
   IMAGE_NAME: devops-applilia2
   IKS_CLUSTER:  mycluster-free
-  DEPLOYMENT_NAME: devops-app-deploymentlilia
+  DEPLOYMENT_NAME: devops-app-deploymentlilia2
   PORT: 8080
 
 jobs:
