@@ -19,9 +19,9 @@ env:
   IBM_CLOUD_REGION: us-south
   ICR_NAMESPACE: ${{ secrets.ICR_NAMESPACE }}
   REGISTRY_HOSTNAME: us.icr.io
-  IMAGE_NAME: devops-applilia3
+  IMAGE_NAME: devops-appliliis
   IKS_CLUSTER:  mycluster-free
-  DEPLOYMENT_NAME: devops-app-deploymentlilia2
+  DEPLOYMENT_NAME: devops-app-deploymentlilis
   PORT: 8080
 
 jobs:
